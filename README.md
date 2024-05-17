@@ -37,7 +37,7 @@ This is project is for a possible to be a design part of a portfolio page.
 
 ### What I learned
 
-Nothing new to learn so far.
+Apply more ARIA rules and semantic HTML for accessibility features.
 
 ### Continued development
 
@@ -45,7 +45,7 @@ I would like continue to focus in practice more the Flexbox CSS.
 
 ### Useful resources
 
-- [CCS Tricks](https://css-tricks.com/) - This helped me for to check some css flexbox properties and other properties.
+- [CCS Tricks](https://css-tricks.com/) - This helped me for to check some css flexbox and other properties.
 
 ## Author
 
